@@ -1,0 +1,6 @@
+.current-keyvisual img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover; /* This ensures the image scales properly */
+  border-radius: 6px; /* Optional: maintain the rounded corners */
+}
